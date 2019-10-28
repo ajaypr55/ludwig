@@ -9,3 +9,9 @@ tqdm
 tensorflow==1.14.0
 PyYAML>=3.12
 absl-py
+catboost
+xgboost
+flair
+news-please
+confluent-kafka
+kafka-python
